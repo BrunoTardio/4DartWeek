@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227951030184",
+    "project_id": "dartweek-appfilmes-tardio",
+    "storage_bucket": "dartweek-appfilmes-tardio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227951030184:android:3f954aa794ca18cb7c779d",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227951030184-pfhei9gdpg897f7qd26pje2dqfdptrq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiadoflutter.app_filmes",
+            "certificate_hash": "cf7e7cfaa8c92a8aa1901a941e18bdf0422ccdb0"
+          }
+        },
+        {
+          "client_id": "227951030184-ai05iosdebvc8sjj3f5uhno1c6gv548o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCkB7DPHZGk1zRvgXUtPKppLPoURTpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227951030184-ai05iosdebvc8sjj3f5uhno1c6gv548o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
